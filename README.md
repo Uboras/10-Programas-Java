@@ -8,5 +8,5 @@ Programa 5: Print stars in console (Mostra estrellas en consola)<br>
 Programa 6: Print reverse string (Mostrar las frases de izquierda a derecha) <br>
 Programa 7: How to get transpose of matrix (Invertir matrices) <br>
 Programa 8: Open Program in java (Abrir un programa en java)<br>
-Programa 9:<br>
+Programa 9: How to create PriorityQueue program (Cola de prioridad  y eliminacion)<br>
 Programa 10:<br>
